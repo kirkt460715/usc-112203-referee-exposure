@@ -1,0 +1,30 @@
+{
+  "items": {
+    "rows": 24,
+    "sha256": "1e7628df0d76daca2107b0f896bba69719c216fdd7d2179baeb2346152d9dad3"
+  },
+  "applicants": {
+    "rows": 60,
+    "sha256": "d73a345e8c1a25ca1e5f72c0395b3c02eb4b4e5069c5fc0a4db00962077738db"
+  },
+  "answers": {
+    "rows": 630,
+    "sha256": "ad86da60d35890dbf60a5575a4e4622bab77d32670be86b148a8aee72dc36e84"
+  },
+  "disclosures": {
+    "rows": 3,
+    "sha256": "3fb8bd33c6c941e5d82f61f7a3182f3f85fcabdb8b60f9b0e7a42dde42e82db3"
+  },
+  "policy": {
+    "rows": 2,
+    "sha256": "4d649b348a1e0ffc9c3b78bf914da74e4b158ecfbbd37ccdfb44b55aec184440"
+  },
+  "forms": {
+    "rows": 2,
+    "sha256": "624f44c64b626df16b3e5632bb7a1c58d713ef5d1e867e21e6e6a81d662916fb"
+  },
+  "notices": {
+    "rows": 2,
+    "sha256": "e0b3a52b3647919a75d62ec0c2d7956fcf2342b0cd5dc312f3813a91b888d12a"
+  }
+}
